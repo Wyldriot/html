@@ -1,0 +1,47 @@
+html {
+    background: #CCCCFF;
+    background-image:
+}
+
+header {
+    background-color: #ffcc88;
+    text-align: center;
+    padding: 50px;
+    font-size: 49px;
+    text-decoration-color: #000000;
+}
+
+
+
+
+
+body {
+    background: #545454;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #FFFFFF;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 2em;
+}
+
+a{
+background:  #DCD9CD url(/images/alert-overlay.png) repeat-x;
+display: inline-block;
+padding: 5px 10px 6px;
+color: #ff0000;
+text-decoration: none;
+font-weight: bold;
+line-height: 1;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+-moz-box-shadow: 0 1px 3px #999;
+-webkit-box-shadow: 0 1px 3px #999;
+text-shadow: 0 -1px 1px #222;
+border-bottom: 1px solid #222;
+position: relative;
+cursor: pointer;
+}
+
